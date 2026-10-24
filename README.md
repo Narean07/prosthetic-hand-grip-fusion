@@ -3,7 +3,7 @@
 **MDM2 Case Study: Assistive Robotics for Improvement of Life Quality** (TH Deggendorf, WS 2026/27)
 Track: Software & Simulation · Supervisor: Dr. Heidari
 
-**Team:** Narean Ravichandra · Guttikonda Ayyappa Reddy
+**Team:** Narean Ravichandra · Guttikonda Ayyappa Reddy      📄 **Proposal:** [One-Page Proposal (PDF)](docs/proposal/OnePage_Proposal_Prosthetic_Hand_Sensor_Fusion.pdf)
 
 ## Problem
 Multi-grip myoelectric hands select a grip by classifying forearm sEMG trained in one arm posture. When a transradial amputee raises or extends the forearm, the sEMG patterns shift (the **limb-position effect**), the hand opens into the wrong grip, and the object is dropped. Unreliable control is a main reason users abandon electric prostheses.
