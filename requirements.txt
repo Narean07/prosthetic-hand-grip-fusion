@@ -1,5 +1,9 @@
 numpy
 scipy
-matplotlib
 pandas
+matplotlib
+scikit-learn
+torch
+ultralytics
+opencv-python
 pytest
